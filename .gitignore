@@ -8,7 +8,7 @@
 /dataSources.local.xml
 # Compiled class file
 *.class
-
+.idea/workspace.xml
 # Log file
 *.log
 
