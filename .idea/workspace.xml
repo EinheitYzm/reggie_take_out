@@ -97,7 +97,7 @@
       <updated>1685893012067</updated>
       <workItem from="1685893013744" duration="37102000" />
       <workItem from="1686206313118" duration="598000" />
-      <workItem from="1686268879705" duration="5260000" />
+      <workItem from="1686268879705" duration="6086000" />
     </task>
     <task id="LOCAL-00001" summary="基础版本：项目基本功能开发">
       <created>1686749670119</created>
@@ -106,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686749670119</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="基础版本：项目基本功能开发">
+      <created>1686749819826</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686749819826</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,11 +122,41 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="0c36a116-1029-44f8-b980-460a95534d44">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="0c36a116-1029-44f8-b980-460a95534d44" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
