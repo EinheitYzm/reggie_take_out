@@ -218,6 +218,12 @@ public class DishController {
 
         dishService.removeWithFlavor(ids);
 
+        for (Long id : ids) {
+            // 清理某个分类下面的菜品缓存数据
+            String key = "dish_" + id + "_1";
+            redisTemplate.delete(key);
+        }
+
         return R.success("菜品数据删除成功");
     }
 
