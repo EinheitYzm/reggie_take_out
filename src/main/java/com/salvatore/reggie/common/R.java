@@ -1,11 +1,13 @@
 package com.salvatore.reggie.common;
 
 import lombok.Data;
+
+import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Map;
 
 @Data
-public class R<T> {
+public class R<T> implements Serializable {
 
     /**
      * 通用返回结果，服务端返回的数据最终都会封装成此对象
